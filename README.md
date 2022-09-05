@@ -1,1 +1,20 @@
-# kimyongs_repository
+# 이력서
+
+## 소개
+![프로필이미지]
+- 이름: 김용승
+- 군필여부: 현역 병장 전역
+- 취미: 여행, 수영, 등산, 산책
+- Email: rladydtmd99@naver.com
+- Github: [github.com/Ki-myongs](https://github.com/ki-myongs)
+
+```
+공학자로서, 안전을 가장 중요한 요소로 삼고 있습니다.
+```
+
+## 학력
+- **광운대학교 전기공학과** 3학년 재학(2018 입학)
+
+## 프로젝트
+### 설계한거 2-1, 2-2, 3-1 넣기
+
